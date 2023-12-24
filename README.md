@@ -10,4 +10,11 @@ This Python script utilizes the pyttsx3 and PyPDF2 libraries to convert text fro
 
 ## Prerequisites
 
-Make sure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
+Ensure you have the following installed on your system:
+
+- **Python:** You can download Python from [python.org](https://www.python.org/downloads/).
+
+Additionally, install the required Python libraries using the following command:
+
+```bash
+pip install -r requirements.txt
