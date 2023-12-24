@@ -2,7 +2,7 @@ import pyttsx3
 from PyPDF2 import PdfReader
 
 # Open the PDF file in binary mode
-with open('oop.pdf', 'rb') as book:
+with open('FileName.pdf', 'rb') as book:
     # Create a PdfReader object
     pdfReader = PdfReader(book)
 
